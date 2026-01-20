@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👩🏻‍💻 Isadora Lima
 
-<!--
-**isadoraclima/isadoraclima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Science | Data Analyst`**
 
-Here are some ideas to get you started:
+Olá! Bem vindo ao meu perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Isadora e atuo na área de Data Science. Sou graduanda de Economia pela Unesp - FCLAr. Tenho experiência no ciclo completo do dado: desde a coleta até visualização com dashboards. Atualmente tenho trabalhado com análises estatísticas e estudo de novas linguagens de programação. 
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+ <img 
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+
+<img 
+    align="left"
+    alt="Google Cloud"
+    title="Google Cloud"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
+
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+ />
+
+
+ <img 
+     align="left"
+    alt="VScode"
+    title="Vscode"
+    width="30px"
+    style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+ />
+          
+
+<img 
+    align="left"
+    alt="Rstudio"
+    title="Rstudio"
+    width="30px"
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
+/>
+               
+          
+          
+
+
+
